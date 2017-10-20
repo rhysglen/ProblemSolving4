@@ -54,5 +54,6 @@ namespace ProblemSolving4
             Thread.Sleep(2500);
             this.Close();
         }
+
     }
 }
